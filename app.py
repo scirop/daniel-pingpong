@@ -9,7 +9,7 @@ def pong():
     
 @app.errorhandler(404)
 def page_not_found(e):
-    return 'Use /ping endpoint', 404
+    return 'page not found, use /ping endpoint', 404
 
 
 if __name__=='__main__':
