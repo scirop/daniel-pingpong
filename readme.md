@@ -7,3 +7,4 @@
 
 Because Daniel is so cool. But so is Doug! Who's cooler?
 
+Hosted on [Heroku](https://daniel-pingpong.herokuapp.com/ping)
